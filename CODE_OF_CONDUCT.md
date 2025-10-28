@@ -1,0 +1,1 @@
+A CONTRIBUTING.md file is included, providing clear contribution guidelines. It explains how to fork the repository, create branches, commit changes, and submit pull requests, helping maintain organized and collaborative development.
