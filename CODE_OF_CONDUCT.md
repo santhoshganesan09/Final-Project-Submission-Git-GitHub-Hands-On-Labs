@@ -1,1 +1,1 @@
-A CONTRIBUTING.md file is included, providing clear contribution guidelines. It explains how to fork the repository, create branches, commit changes, and submit pull requests, helping maintain organized and collaborative development.
+The repository contains a CODE_OF_CONDUCT.md file following the Contributor Covenant template. It defines standards for interaction, ensuring contributors maintain professionalism and inclusivity within the community.
