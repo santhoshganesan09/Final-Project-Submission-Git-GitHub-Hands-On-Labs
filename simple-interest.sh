@@ -1,0 +1,1 @@
+The repository includes the simple-interest.sh script, which correctly calculates simple interest based on user inputs for principal, rate, and time. The script is executable and follows good shell scripting practices.
